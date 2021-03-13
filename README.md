@@ -3,4 +3,4 @@ A simple Shell in C
  
  1.gcc shell.c -lreadline
 
-2../a.out
+2.  ./a.out
